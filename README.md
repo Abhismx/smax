@@ -1,0 +1,2 @@
+# smax
+my first website
